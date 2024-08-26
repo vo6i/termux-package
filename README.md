@@ -3,6 +3,7 @@ powerfull pkg for pintesting
 
 ```
 git clone https://github.com/vo6i/termux-package.git
+cd termux-package
 apt install ./dclxviclanpkg.deb
 ```
 # After installation package run in termux 
