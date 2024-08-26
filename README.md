@@ -10,4 +10,4 @@ apt install ./dclxviclanpkg.deb
 ```
 $ dclxviclanpkg
 ```
-![](https://github.com/vo6i/termux-package/blob/main/SR0AcDx-Go7TfE_pYzuMSYNEQppqaltiSS1jVFPIFsBe9BPKWX02sW3qF4T5NoxNczIic9VPZiAzjgxNRXYwWfyu.jpg)
+![](https://github.com/vo6i/termux-package/blob/main/ZKJSdwQiRr_5tvqaGkp2JDq9PCtbV1tksXlS7uK01ne9ULMqhGtsAWmw-CzE87GoTdY1RtXjRkzSXXFnURMnUDs8.jpg)
